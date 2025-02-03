@@ -56,8 +56,8 @@
  Brojot na patnici od 2-ra klasa koi ostanale bez mesto e: 0
 */
 
-#include<iostream>
-#include<cstring>
+#include <iostream>
+#include <cstring>
 
 using namespace std;
 
