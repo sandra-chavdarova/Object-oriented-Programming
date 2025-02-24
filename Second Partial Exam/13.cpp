@@ -420,8 +420,7 @@ int main() {
             }
             dir_list[i] = dir;
         }
-
         cout << max_folder_size(dir_list, folders_num);
     }
     return 0;
-};
+}

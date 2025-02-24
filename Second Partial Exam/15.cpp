@@ -266,6 +266,5 @@ int main() {
 
     }
     StudentKurs::setMAX(9);
-
     programiranje.pecatiStudenti();
 }
