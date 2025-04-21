@@ -1,4 +1,4 @@
-# Object-oriented programming
+# Object-oriented programming 💻
 This repository contains solved laboratory exercises and exam exercises from the course Object-oriented programming in C++.
 
 # Contents
